@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.1
 - name: test001
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: test003
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
